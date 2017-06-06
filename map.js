@@ -1,7 +1,7 @@
 // When the user clicks the marker, an info window opens.
 function initMap() {
   var map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 5,
+    zoom: 2,
     center: {lat: 42.1497, lng: -74.9384},
     styles:[
       {
