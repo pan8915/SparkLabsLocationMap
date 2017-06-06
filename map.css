@@ -1,0 +1,25 @@
+#map {
+  height: 550px;
+  width:100%
+}
+#map-container{
+margin-left:300px;
+}
+/*html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}*/
+#panel{
+  float:left;
+  width:300px;
+  height:550px;
+}
+#panel h2{
+  font-family: source sans pro;
+}
+#markerlist{
+  height:400px;
+  margin:10px 5px 0 10px;
+  overflow:auto;
+}
